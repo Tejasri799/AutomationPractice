@@ -1,0 +1,299 @@
+# Created at 2020-03-26T21:08:21.380
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+
+# Created at 2020-03-26T21:08:22.120
+Unexpected IOException with stream: [
+
+# Created at 2020-03-26T21:08:22.153
+Unexpected IOException with stream: 1
+
+# Created at 2020-03-26T21:08:22.155
+Unexpected IOException with stream: 5
+
+# Created at 2020-03-26T21:08:22.160
+Unexpected IOException with stream: 8
+
+# Created at 2020-03-26T21:08:22.162
+Unexpected IOException with stream: 5
+
+# Created at 2020-03-26T21:08:22.167
+Unexpected IOException with stream: 2
+
+# Created at 2020-03-26T21:08:22.172
+Unexpected IOException with stream: 3
+
+# Created at 2020-03-26T21:08:22.182
+Unexpected IOException with stream: 7
+
+# Created at 2020-03-26T21:08:22.187
+Unexpected IOException with stream: 1
+
+# Created at 2020-03-26T21:08:22.191
+Unexpected IOException with stream: 0
+
+# Created at 2020-03-26T21:08:22.194
+Unexpected IOException with stream: 1
+
+# Created at 2020-03-26T21:08:22.197
+Unexpected IOException with stream: .
+
+# Created at 2020-03-26T21:08:22.200
+Unexpected IOException with stream: 9
+
+# Created at 2020-03-26T21:08:22.202
+Unexpected IOException with stream: 7
+
+# Created at 2020-03-26T21:08:22.244
+Unexpected IOException with stream: 9
+
+# Created at 2020-03-26T21:08:22.248
+Unexpected IOException with stream: ]
+
+# Created at 2020-03-26T21:08:22.259
+Unexpected IOException with stream: [
+
+# Created at 2020-03-26T21:08:22.263
+Unexpected IOException with stream: W
+
+# Created at 2020-03-26T21:08:22.272
+Unexpected IOException with stream: A
+
+# Created at 2020-03-26T21:08:22.277
+Unexpected IOException with stream: R
+
+# Created at 2020-03-26T21:08:22.280
+Unexpected IOException with stream: N
+
+# Created at 2020-03-26T21:08:22.287
+Unexpected IOException with stream: I
+
+# Created at 2020-03-26T21:08:22.295
+Unexpected IOException with stream: N
+
+# Created at 2020-03-26T21:08:22.299
+Unexpected IOException with stream: G
+
+# Created at 2020-03-26T21:08:22.304
+Unexpected IOException with stream: ]
+
+# Created at 2020-03-26T21:08:22.313
+Unexpected IOException with stream: :
+
+# Created at 2020-03-26T21:08:22.316
+Unexpected IOException with stream:  
+
+# Created at 2020-03-26T21:08:22.327
+Unexpected IOException with stream: T
+
+# Created at 2020-03-26T21:08:22.333
+Unexpected IOException with stream: i
+
+# Created at 2020-03-26T21:08:22.336
+Unexpected IOException with stream: m
+
+# Created at 2020-03-26T21:08:22.341
+Unexpected IOException with stream: e
+
+# Created at 2020-03-26T21:08:22.344
+Unexpected IOException with stream: d
+
+# Created at 2020-03-26T21:08:22.348
+Unexpected IOException with stream:  
+
+# Created at 2020-03-26T21:08:22.352
+Unexpected IOException with stream: o
+
+# Created at 2020-03-26T21:08:22.354
+Unexpected IOException with stream: u
+
+# Created at 2020-03-26T21:08:22.362
+Unexpected IOException with stream: t
+
+# Created at 2020-03-26T21:08:22.367
+Unexpected IOException with stream:  
+
+# Created at 2020-03-26T21:08:22.370
+Unexpected IOException with stream: c
+
+# Created at 2020-03-26T21:08:22.379
+Unexpected IOException with stream: o
+
+# Created at 2020-03-26T21:08:22.382
+Unexpected IOException with stream: n
+
+# Created at 2020-03-26T21:08:22.386
+Unexpected IOException with stream: n
+
+# Created at 2020-03-26T21:08:22.392
+Unexpected IOException with stream: e
+
+# Created at 2020-03-26T21:08:22.398
+Unexpected IOException with stream: c
+
+# Created at 2020-03-26T21:08:22.402
+Unexpected IOException with stream: t
+
+# Created at 2020-03-26T21:08:22.407
+Unexpected IOException with stream: i
+
+# Created at 2020-03-26T21:08:22.438
+Unexpected IOException with stream: n
+
+# Created at 2020-03-26T21:08:22.444
+Unexpected IOException with stream: g
+
+# Created at 2020-03-26T21:08:22.447
+Unexpected IOException with stream:  
+
+# Created at 2020-03-26T21:08:22.451
+Unexpected IOException with stream: t
+
+# Created at 2020-03-26T21:08:22.454
+Unexpected IOException with stream: o
+
+# Created at 2020-03-26T21:08:22.460
+Unexpected IOException with stream:  
+
+# Created at 2020-03-26T21:08:22.462
+Unexpected IOException with stream: C
+
+# Created at 2020-03-26T21:08:22.465
+Unexpected IOException with stream: h
+
+# Created at 2020-03-26T21:08:22.468
+Unexpected IOException with stream: r
+
+# Created at 2020-03-26T21:08:22.478
+Unexpected IOException with stream: o
+
+# Created at 2020-03-26T21:08:22.481
+Unexpected IOException with stream: m
+
+# Created at 2020-03-26T21:08:22.484
+Unexpected IOException with stream: e
+
+# Created at 2020-03-26T21:08:22.492
+Unexpected IOException with stream: ,
+
+# Created at 2020-03-26T21:08:22.499
+Unexpected IOException with stream:  
+
+# Created at 2020-03-26T21:08:22.509
+Unexpected IOException with stream: r
+
+# Created at 2020-03-26T21:08:22.512
+Unexpected IOException with stream: e
+
+# Created at 2020-03-26T21:08:22.515
+Unexpected IOException with stream: t
+
+# Created at 2020-03-26T21:08:22.517
+Unexpected IOException with stream: r
+
+# Created at 2020-03-26T21:08:22.521
+Unexpected IOException with stream: y
+
+# Created at 2020-03-26T21:08:22.525
+Unexpected IOException with stream: i
+
+# Created at 2020-03-26T21:08:22.531
+Unexpected IOException with stream: n
+
+# Created at 2020-03-26T21:08:22.534
+Unexpected IOException with stream: g
+
+# Created at 2020-03-26T21:08:22.537
+Unexpected IOException with stream: .
+
+# Created at 2020-03-26T21:08:22.546
+Unexpected IOException with stream: .
+
+# Created at 2020-03-26T21:08:22.550
+Unexpected IOException with stream: .
+
+# Created at 2020-03-26T21:08:22.553
+Unexpected IOException with stream: 
+
+# Created at 2020-03-26T21:08:22.555
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-26T21:08:24.082
+Unexpected IOException with stream: Mar 26, 2020 9:08:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2020-03-26T21:08:25.496
+Unexpected IOException: 8,1,Tests.test_chrome,beforeMethod(Tests.test_chrome),null,unknown error: cannot determine loading status\000Afrom disconnected: received Inspector.detached event\000A  (Session info: chrome=80.0.3987.149)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-CVR9HVBP'\002C ip: '192.168.43.5'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '13.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 80.0.3987.149\002C chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389...\002C userDataDir: C:\005CUsers\005CUTTAMB~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:56026}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 83e218a2390c7e735c5710e868c4fdc8,null,unknown error: cannot determine loading status\000Afrom disconnected: received Inspector.detached event\000A  (Session info: chrome=80.0.3987.149)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-CVR9HVBP'\002C ip: '192.168.43.5'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '13.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 80.0.3987.149\002C chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389...\002C userDataDir: C:\005CUsers\005CUTTAMB~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:56026}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 83e218a2390c7e735c5710e868c4fdc8,test_chrome.beforeMethod:54 \00BB WebDriver unknown error: cannot determine loadin...,org.openqa.selenium.WebDriverException: \000Aunknown error: cannot determine loading status\000Afrom disconnected: received Inspector.detached event\000A  (Session info: chrome=80.0.3987.149)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-CVR9HVBP'\002C ip: '192.168.43.5'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '13.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 80.0.3987.149\002C chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389...\002C userDataDir: C:\005CUsers\005CUTTAMB~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:56026}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 83e218a2390c7e735c5710e868c4fdc8\000A\0009at Tests.test_chrome.beforeMethod(test_chrome.java:54)\000A
+
+
+# Created at 2020-03-26T21:08:25.501
+Unexpected IOException: 5,1,Tests.test_chrome,f(Tests.test_chrome),Tests.test_chrome,null,null
+
+
+# Created at 2020-03-26T21:08:25.508
+Unexpected IOException: 9,1,Tests.test_chrome,f(Tests.test_chrome),null,unknown error: cannot determine loading status\000Afrom disconnected: received Inspector.detached event\000A  (Session info: chrome=80.0.3987.149)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-CVR9HVBP'\002C ip: '192.168.43.5'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '13.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 80.0.3987.149\002C chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389...\002C userDataDir: C:\005CUsers\005CUTTAMB~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:56026}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 83e218a2390c7e735c5710e868c4fdc8,null
+
+
+# Created at 2020-03-26T21:08:25.511
+Unexpected IOException: 9,1,Tests.test_chrome,afterMethod(Tests.test_chrome),null,null,null
+
+
+# Created at 2020-03-26T21:08:25.517
+Unexpected IOException: 9,1,Tests.test_chrome,beforeMethod(Tests.test_chrome),null,null,null
+
+
+# Created at 2020-03-26T21:08:25.522
+Unexpected IOException: 5,1,Tests.test_chrome,f(Tests.test_chrome),Tests.test_chrome,null,null
+
+
+# Created at 2020-03-26T21:08:25.526
+Unexpected IOException: 9,1,Tests.test_chrome,f(Tests.test_chrome),null,unknown error: cannot determine loading status\000Afrom disconnected: received Inspector.detached event\000A  (Session info: chrome=80.0.3987.149)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-CVR9HVBP'\002C ip: '192.168.43.5'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '13.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 80.0.3987.149\002C chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389...\002C userDataDir: C:\005CUsers\005CUTTAMB~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:56026}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 83e218a2390c7e735c5710e868c4fdc8,null
+
+
+# Created at 2020-03-26T21:08:25.530
+Unexpected IOException: 9,1,Tests.test_chrome,afterMethod(Tests.test_chrome),null,null,null
+
+
+# Created at 2020-03-26T21:08:25.534
+Unexpected IOException: 9,1,Tests.test_chrome,beforeMethod(Tests.test_chrome),null,null,null
+
+
+# Created at 2020-03-26T21:08:25.538
+Unexpected IOException: 5,1,Tests.test_chrome,f(Tests.test_chrome),Tests.test_chrome,null,null
+
+
+# Created at 2020-03-26T21:08:25.549
+Unexpected IOException: 9,1,Tests.test_chrome,f(Tests.test_chrome),null,unknown error: cannot determine loading status\000Afrom disconnected: received Inspector.detached event\000A  (Session info: chrome=80.0.3987.149)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-CVR9HVBP'\002C ip: '192.168.43.5'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '13.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 80.0.3987.149\002C chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389...\002C userDataDir: C:\005CUsers\005CUTTAMB~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:56026}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 83e218a2390c7e735c5710e868c4fdc8,null
+
+
+# Created at 2020-03-26T21:08:25.561
+Unexpected IOException: 9,1,Tests.test_chrome,afterMethod(Tests.test_chrome),null,null,null
+
+
+# Created at 2020-03-26T21:08:25.566
+Unexpected IOException: 9,1,Tests.test_chrome,beforeMethod(Tests.test_chrome),null,null,null
+
+
+# Created at 2020-03-26T21:08:25.568
+Unexpected IOException: 5,1,Tests.test_chrome,f(Tests.test_chrome),Tests.test_chrome,null,null
+
+
+# Created at 2020-03-26T21:08:25.570
+Unexpected IOException: 9,1,Tests.test_chrome,f(Tests.test_chrome),null,unknown error: cannot determine loading status\000Afrom disconnected: received Inspector.detached event\000A  (Session info: chrome=80.0.3987.149)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-CVR9HVBP'\002C ip: '192.168.43.5'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '13.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 80.0.3987.149\002C chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389...\002C userDataDir: C:\005CUsers\005CUTTAMB~1\005CAppData\005CL...}\002C goog:chromeOptions: {debuggerAddress: localhost:56026}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 83e218a2390c7e735c5710e868c4fdc8,null
+
+
+# Created at 2020-03-26T21:08:25.574
+Unexpected IOException: 9,1,Tests.test_chrome,afterMethod(Tests.test_chrome),null,null,null
+
+
+# Created at 2020-03-26T21:08:27.774
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

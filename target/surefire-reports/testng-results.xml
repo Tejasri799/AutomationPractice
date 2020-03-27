@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-26T23:57:57 IST" name="Suite" finished-at="2020-03-27T00:06:56 IST" duration-ms="539364">
+    <groups>
+    </groups>
+    <test started-at="2020-03-26T23:57:57 IST" name="Test" finished-at="2020-03-27T00:06:56 IST" duration-ms="539364">
+      <class name="Tests.test_chrome">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Tests.test_chrome@1a38c59b]" started-at="2020-03-26T23:58:01 IST" name="beforeMethod" finished-at="2020-03-26T23:58:49 IST" duration-ms="47665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Tests.test_chrome@1a38c59b]" started-at="2020-03-26T23:58:49 IST" name="f" data-provider="dp" finished-at="2020-03-26T23:59:29 IST" duration-ms="40439" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gocoronagofrompak@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[raj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kappor]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[uytre]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA["7899654895"]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[blt]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["12345"]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[india]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[raj kappor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Tests.test_chrome@1a38c59b]" started-at="2020-03-26T23:59:29 IST" name="afterMethod" finished-at="2020-03-26T23:59:34 IST" duration-ms="5263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Tests.test_chrome@1a38c59b]" started-at="2020-03-26T23:59:34 IST" name="beforeMethod" finished-at="2020-03-27T00:00:18 IST" duration-ms="43353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Tests.test_chrome@1a38c59b]" started-at="2020-03-27T00:00:18 IST" name="f" data-provider="dp" finished-at="2020-03-27T00:01:12 IST" duration-ms="54351" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[byby2020meet@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[blank]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[patel]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rtyub]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA["7899654895"]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[blt]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["12345"]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[india]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[firstname is required.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Tests.test_chrome@1a38c59b]" started-at="2020-03-27T00:01:12 IST" name="afterMethod" finished-at="2020-03-27T00:01:17 IST" duration-ms="4640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Tests.test_chrome@1a38c59b]" started-at="2020-03-27T00:01:17 IST" name="beforeMethod" finished-at="2020-03-27T00:02:06 IST" duration-ms="49476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Tests.test_chrome@1a38c59b]" started-at="2020-03-27T00:02:06 IST" name="f" data-provider="dp" finished-at="2020-03-27T00:03:04 IST" duration-ms="58132" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[byby2020meet@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[danush]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[blank]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[tyuim]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA["7899654895"]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[blt]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["12345"]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[india]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[lastname is required.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Tests.test_chrome@1a38c59b]" started-at="2020-03-27T00:03:04 IST" name="afterMethod" finished-at="2020-03-27T00:03:09 IST" duration-ms="4782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Tests.test_chrome@1a38c59b]" started-at="2020-03-27T00:03:09 IST" name="beforeMethod" finished-at="2020-03-27T00:04:02 IST" duration-ms="53368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Tests.test_chrome@1a38c59b]" started-at="2020-03-27T00:04:02 IST" name="f" data-provider="dp" finished-at="2020-03-27T00:04:47 IST" duration-ms="44885" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[byby2020meet@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vijay]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[singh]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[blank]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA["7899654895"]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[blt]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["12345"]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[india]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[passwd is required.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Tests.test_chrome@1a38c59b]" started-at="2020-03-27T00:04:47 IST" name="afterMethod" finished-at="2020-03-27T00:04:52 IST" duration-ms="4598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Tests.test_chrome@1a38c59b]" started-at="2020-03-27T00:04:52 IST" name="beforeMethod" finished-at="2020-03-27T00:06:10 IST" duration-ms="78337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Tests.test_chrome@1a38c59b]" started-at="2020-03-27T00:06:10 IST" name="f" data-provider="dp" finished-at="2020-03-27T00:06:52 IST" duration-ms="41573" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[byby2020meet@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ramesh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jadeja]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[wqeuj]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA["7899654895"]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[blank]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["12345"]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[india]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[address1 is required.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Tests.test_chrome@1a38c59b]" started-at="2020-03-27T00:06:52 IST" name="afterMethod" finished-at="2020-03-27T00:06:56 IST" duration-ms="3994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Tests.test_chrome -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

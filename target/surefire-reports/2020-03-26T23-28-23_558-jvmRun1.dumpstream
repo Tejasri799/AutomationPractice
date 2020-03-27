@@ -1,0 +1,65 @@
+# Created at 2020-03-26T23:32:23.384
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+
+# Created at 2020-03-26T23:32:23.963
+Unexpected IOException with stream: Element Located
+
+
+# Created at 2020-03-26T23:32:28.489
+Unexpected IOException with stream: Element Located
+
+
+# Created at 2020-03-26T23:32:29.319
+Unexpected IOException with stream: Element Located
+
+
+# Created at 2020-03-26T23:32:29.799
+Unexpected IOException with stream: Element Located
+
+
+# Created at 2020-03-26T23:32:30.557
+Unexpected IOException with stream: Element Located
+
+
+# Created at 2020-03-26T23:32:30.983
+Unexpected IOException with stream: Element Located
+
+
+# Created at 2020-03-26T23:32:31.738
+Unexpected IOException with stream: Element Located
+
+
+# Created at 2020-03-26T23:32:32.327
+Unexpected IOException with stream: Element Located
+
+
+# Created at 2020-03-26T23:32:32.684
+Unexpected IOException with stream: Element Located
+
+
+# Created at 2020-03-26T23:32:33.195
+Unexpected IOException with stream: Element Located
+
+
+# Created at 2020-03-26T23:32:33.481
+Unexpected IOException with stream: Element Located
+
+
+# Created at 2020-03-26T23:32:34.249
+Unexpected IOException with stream: Element Located
+
+
+# Created at 2020-03-26T23:32:35.175
+Unexpected IOException with stream: Element Located
+
+
+# Created at 2020-03-26T23:32:59.012
+Unexpected IOException with stream: Element not locatedorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //a[@title='View my customer account'] (tried for 20 second(s) with 500 milliseconds interval)
+
+
